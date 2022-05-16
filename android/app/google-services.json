@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "678304577975",
+    "project_id": "phuquoc-92b58",
+    "storage_bucket": "phuquoc-92b58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678304577975:android:169a2b9eb37f861b989032",
+        "android_client_info": {
+          "package_name": "com.bakco.phuquoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678304577975-bfbs77j402cua6j4psh3jufsd6iusriu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bakco.phuquoc",
+            "certificate_hash": "93fa87bf038533361f0a751cbec2c4e51d743ebb"
+          }
+        },
+        {
+          "client_id": "678304577975-4gce1u5qoraf20qbh46gb09diijqrqqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs6ByREx5UrLmRVrguESpb9Dkbx7YSXYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678304577975-4gce1u5qoraf20qbh46gb09diijqrqqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

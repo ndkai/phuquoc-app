@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Phu Quoc</string>
+    <string name="server_client_id">678304577975-4gce1u5qoraf20qbh46gb09diijqrqqk.apps.googleusercontent.com</string>
+    <string name="facebook_app_id">2778304269053147</string>
+    <string name="fb_login_protocol_scheme">2778304269053147</string>
+</resources>

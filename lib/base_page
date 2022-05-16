@@ -1,0 +1,17 @@
+BaseSubPage(
+        onBack: (){
+          Navigator.of(context).pop();
+        },
+        botNar: Container(),
+        showHelpTap: (){},
+        drawer: Container(),
+         helpWidget: Container(),
+      title: "",
+        child: Container(
+          child: Column(
+            children: [
+              Text("asdasd")
+            ],
+          ),
+        ),
+    )
